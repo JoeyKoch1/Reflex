@@ -1,0 +1,12 @@
+build/
+*.obj
+*.lib
+*.exp
+*.dll
+*.pdb
+*.exe
+*.recipe
+*.tlog/
+.vs/
+*.user
+*.suo

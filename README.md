@@ -1,14 +1,14 @@
 # Reflex
 
-Lightweight CS2 internal cheat — chams, night mode, hit sound, hit logger.
+Lightweight CS2 internal cheat. Chams, night mode, hit sound, hit logger.
 
 ## Features
 
-- **Chams** — visible & occluded player coloring via `GeneratePrimitives` hook
-- **Night mode** — material color override for darker environments
-- **Hit sound** — Neverlose-style sound on hit
-- **Hit logger** — damage numbers in chat with team-colored names
-- **Watermark** — green "Reflex" overlay at top-right
+- **Chams**: visible & occluded player coloring via `GeneratePrimitives` hook
+- **Night mode**: material color override for darker environments
+- **Hit sound**: Neverlose-style sound on hit
+- **Hit logger**: damage numbers in chat with team-colored names
+- **Watermark**: green "Reflex" overlay at top-right
 
 ## Build
 
@@ -35,7 +35,7 @@ Output: `build/Release/Qernix.dll`
 
 ## Dependencies
 
-- [MinHook](https://github.com/TsudaKageyu/minhook) — hooked as git submodule
+- [MinHook](https://github.com/TsudaKageyu/minhook): git submodule
 
 ## Disclaimer
 
